@@ -1,0 +1,27 @@
+div.AddTaskForm {
+    padding: .5em;
+    margin: .5em;
+    background-color: teal;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    
+}
+
+div.AddTaskForm p {
+    color: white;
+    padding: 0px;
+    margin: 3px;
+}
+
+div.AddTaskForm input {
+    margin: 2px;
+}
+
+div.AddTaskForm button.btn {
+    color: teal;
+    background-color: white;
+    margin-left: 5px;
+}

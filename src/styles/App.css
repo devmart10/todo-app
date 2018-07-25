@@ -1,0 +1,28 @@
+div.App {
+    background-color: grey;
+    height: 100vh;
+}
+
+div.no-margin {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+div.no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+div.label-panel {
+    margin-right: 10px;
+    background-color: white;
+    height: 92vh;
+}
+
+div.main-content {
+    margin-left: 10px;
+}
+
+div.show-grid * {
+    /*border: 1px solid red;*/
+}

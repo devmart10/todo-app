@@ -1,0 +1,35 @@
+div.SidePanel {
+    /*border: 1px solid red;*/
+}
+
+div.SidePanel div.SidePanel_header {
+    padding-left: 1em;
+    padding-right: 5em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    border-bottom: 1px solid grey;
+    /*color: white;*/
+    /*text-shadow: 1px 1px 3px black;*/
+}
+
+div.SidePanel div.SidePanel_body ul {
+    padding-left: 0px;
+}
+
+div.SidePanel div.SidePanel_body li {
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+a.SidePanel_link,
+a.SidePanel_link:hover {
+    color: black;
+    /*padding-left: 1em;*/
+    padding-right: 1em;
+    text-decoration: none;
+    /*border-bottom: 1px solid grey;*/
+}
+
+div.SidePanel div.SidePanel_body li:first-child {
+    padding-top: 10px;
+}

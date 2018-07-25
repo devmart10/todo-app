@@ -1,0 +1,10 @@
+.NavBar {
+    background-color: teal;
+}
+
+.NavBar a,
+.NavBar a:hover {
+    padding-left: 20px;
+    color: white;
+    text-decoration: none;
+}
