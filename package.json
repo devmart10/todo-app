@@ -25,7 +25,10 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-      "react": "^0.14.8",
-      "react-dom": "^0.14.8"
-    }
+    "npm": "^6.2.0",
+    "react": "^0.14.8",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^0.14.8",
+    "react-sidebar": "^2.3.2"
+  }
 }
